@@ -1,9 +1,10 @@
+포트폴리오 영상 URL
+성명: 신주엽
 
 프로젝트 종류: [DirectX SDK 11] 3D 팀 포트폴리오 (Raji 모작)
 제작 기간: 2022.07 – 2022.08 (2달)
-담당 업무: 프레임 워크, 쉐이더, 이펙트, 최적화, 미니게임
+담당 업무: 프레임 워크, 쉐이더, 이펙트, 최적화, 툴, 미니게임
 URL: https://youtu.be/6P35zLeiZz8
-
 
 프로젝트 종류: [Unity] Google PlayStore 출시 게임
 제작 기간: 2019.11 – 2019.12 (4주)
@@ -11,32 +12,25 @@ URL: https://youtu.be/6P35zLeiZz8
            게임 기획, Play스토어 등록, 광고 등록 및 홍보
 URL: https://youtu.be/0GByR2OyoIc
 
-
 프로젝트 종류: [DirectX SDK 11] 개인 포트폴리오 (Alice Madness Returns 모작)
 제작 기간: 2022.04 – 2022.06 (2달)
 담당 업무: 개인 작업
 URL: https://youtu.be/QCU8fR1usjY
+[IMGUI] Alice Madness Returns 툴 URL : https://youtu.be/Lf_5ZI49l7Q 
 
 
 프로젝트 종류: [DirectX SDK 9] 팀 포트폴리오 (Fez 모작)
 제작 기간: 2022.02 – 2022.03 (4주)
-담당 업무: 프레임 워크, 플레이어, 카메라 이동, 맵 디자인
+담당 업무: 프레임 워크, 플레이어, 카메라 이동, 툴, 맵 디자인
 URL: https://youtu.be/wrt5ylSaLXk
-
+[ MFC ] Fez 툴 URL : https://youtu.be/QVSMafHMwGY
 
 프로젝트 종류: [Unity] 개인 포트폴리오 (창작 RPG 게임)
 제작 기간: 2019.07 – 2019.07 (4주)
 담당 업무: 개인 작업
 URL: https://youtu.be/sLtkyyEt4Q0
 
-
 프로젝트 종류: [WinApi] 개인 포트폴리오 (Binding of Issac Rebirth 모작)
 제작 기간: 2021.11 – 2021.11 (2주)
 담당 업무: 개인 작업
 URL: https://youtu.be/Ue8YyJnJhD4
-
-
-
-
-
-
